@@ -12,6 +12,12 @@ This repository is the starter code for the project: Students will fork and clon
 4. Go to <http://localhost:8080/> in your browser.
 5. Tweet Away!
 
+## Final Product
+
+!["This is the home page navigation bar"](https://github.com/AaronBolarinho/Tweeter-Project/blob/master/docs/NavBar.png?raw=true)
+!["This is the home page"](https://github.com/AaronBolarinho/Tweeter-Project/blob/master/docs/mainPage.png?raw=true)
+!["These are a few tweets from recent users"](https://github.com/AaronBolarinho/Tweeter-Project/blob/master/docs/recentUsers.png?raw=true)
+
 ## Dependencies
 
 - Express
@@ -22,4 +28,3 @@ This repository is the starter code for the project: Students will fork and clon
 - Moment
 - Mongodb
 # Tweeter
-# Tweeter-Project
