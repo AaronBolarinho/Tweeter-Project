@@ -1,0 +1,54 @@
+.new-tweet {
+  width: 100%;
+  border: 2px solid;
+  border-color: #D3D3D3;
+  background-color:#eee;
+  text-align: left;
+  line-height: 0;
+  box-sizing: border-box;
+  height: 150px;
+  padding: 10px 10px;
+  border-radius: 5px;
+  position: relative;
+}
+
+h2 {
+border-bottom: 2px solid black;
+line-height: 1;
+margin-bottom: 13px;
+margin-top: 0px;
+font-size: 30px;
+}
+
+textarea {
+  height: 50px;
+  width: 100%;
+}
+
+main section form input {
+  height: 25px;
+  width: 50px;
+  margin-top: 7px;
+  border: 1.3px solid grey;
+  background-color: #f2f4f7;
+  border-radius: 2px;
+
+}
+
+main section form textarea {
+  position: relative;
+  line-height: 30px;
+  font-size: 16px;
+}
+
+.counter {
+  text-align: right;
+  font-style: italic;
+  position: absolute;
+  right: 1em;
+  bottom: 1em;
+}
+
+.overfillCounter {
+  color: red;
+}

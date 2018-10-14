@@ -1,0 +1,64 @@
+.tweet {
+  border: 1px solid;
+  border-color: #D3D3D3;
+  background-color:#fff;
+  position: relative;
+  top: 40px;
+  border-radius: 5px;
+  text-align: left;
+  opacity: 0.7;
+  margin-bottom: 20px;
+}
+
+.tweet header{
+  border-color: #D3D3D3;
+  background-color:#eee;
+  height: 100px;
+  line-height: 2;
+  display: flex;
+}
+
+.tweet header img{
+  border-color: #D3D3D3;
+  background-color:#eee;
+
+  border-radius: 5px;
+  margin: 20px 20px;
+}
+
+.tweeter-name {
+  border-color: #D3D3D3;
+  background-color:#eee;
+  font: bold 25px 'Roboto Condensed', sans-serif;
+  flex-grow: 1;
+  margin-top: 17px;
+}
+
+.tweeter-handle {
+  border-color: #D3D3D3;
+  background-color:#eee;
+  margin: 10px;
+}
+
+.tweet footer{
+  border-color: #D3D3D3;
+  background-color:#fff;
+  border-top: 1px solid;
+  border-top-color: #D3D3D3;
+  height: 26px;
+  display: flex;
+  padding-left: 10px;
+}
+
+.tweet p{
+  margin-bottom: 0px;
+  margin-top: 0px;
+  display: flex;
+  padding: 10px;
+  word-wrap: break-word;
+  overflow: hidden;
+}
+
+.tweet:hover {
+  opacity: 1.0;
+}
